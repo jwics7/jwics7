@@ -1,16 +1,19 @@
-## Hi there 👋
 
+Founder of S32 Technologies. Creator of MagenOS, ShadowStrike, InterceptPlus & more. 
+Seeking to restore trust and security to national security technology
+
+Connect with me on [Linkedin](https://linkedin.com/in/jorwa)
+
+Current Products
+
+Shipped
+[MagenOS](https://magenos.com) - AI-Native All-Source Intelligence Platform, Sovereign by Design
+[ShadowStrike](https://s32.io/shadowstrike) - Advanced Computer Network and Tailored Operations System
+[InterceptPlus](https://s32.io/interceptplus) - Lawful Interception and Intelligence Solutions
+[NetDefense](https://s32.io/netdefense) - SIGINT Powered XDR
+
+Shipping Soon
+[Makom Cloud](https://makom.cloud) - Secure Hosting, Domains, Email and more
+[Genesis OSINT](https://s32.io/genesis) - Next Gen Open Source Intelligence Platform 
+[TrulyAware](https://s32.io/trulyaware) - Bespoke AI Supproted Security Awareness Training
 <!--
-**jwics7/jwics7** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
