@@ -14,7 +14,7 @@ Seeking to **restore *trust* and *security*** to the national security technolog
 #### Shipping Soon
 - **[Makom Cloud](https://makom.cloud)** - Secure Hosting, Domains, Email and more
 - **[Genesis OSINT](https://s32.io/genesis)** - Next Gen Open Source Intelligence Platform 
-- **[TrulyAware](https://s32.io/trulyaware)** - Bespoke AI Supproted Security Awareness Training
+- **[TrulyAware](https://s32.io/trulyaware)** - Bespoke AI Supported Security Awareness Training
 
 ## Open Source Contributions
 - **OpenLI**
